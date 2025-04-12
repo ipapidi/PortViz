@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=PortViz
+Comment=Radar-style visual port scanner
+Exec=sh -c "bash ~/PortViz/launch.sh"
+Icon=/home/ioli/PortViz/portviz-icon.png
+Terminal=false
+Categories=Network;Utility;
+PrefersNonDefaultGPU=false
+
