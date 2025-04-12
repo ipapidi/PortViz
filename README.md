@@ -15,7 +15,7 @@
 This tool is intended for educational and authorized network diagnostics only.  
 **Unauthorized scanning of systems you do not own or have explicit permission to test is illegal and punishable by law. Use PortViz responsibly.**  
 
-*Note: The radar animation is for visual effect only — the position of the dots on the radar does not reflect the actual port numbers or physical locations of services.*
+*Note: The radar animation is for visual effect only! The position of the dots on the radar does not reflect the actual port numbers or physical locations of services.*
 
 ---
 
